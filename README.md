@@ -9,10 +9,9 @@
 👌 Global state management with Zustand
 🐞 Error handling both on the server and on the client
 ⏳ And much more!
+
 Setup .env file
 VITE_GEMINI_API_KEY=***************
-
-NODE_ENV=development
 
 Start the app
 npm run dev
